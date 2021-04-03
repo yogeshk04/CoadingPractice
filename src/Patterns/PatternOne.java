@@ -31,5 +31,4 @@ public class PatternOne {
 			System.out.println();
 		}
 	}
-
 }
